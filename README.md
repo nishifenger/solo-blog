@@ -1,9 +1,9 @@
-<p align="center"><img alt="YOU ARE MY SUNSHINE" src="https://img.hacpai.com/file/2019/10/uugai.com1572243533893-e7962a93.png"></p><h2 align="center">
-YOU ARE MY SUNSHINE
+<p align="center"><img alt="NI SHI FENG ER" src="https://img.hacpai.com/file/2019/10/uugai.com1572243533893-e7962a93.png"></p><h2 align="center">
+NI SHI FENG ER
 </h2>
 
 <h4 align="center">学而不思则罔，思而不学则殆</h4>
-<p align="center"><a title="YOU ARE MY SUNSHINE" target="_blank" href="https://github.com/nishifenger/solo-blog"><img src="https://img.shields.io/github/last-commit/nishifenger/solo-blog.svg?style=flat-square&color=FF9900"></a>
+<p align="center"><a title="NI SHI FENG ER" target="_blank" href="https://github.com/nishifenger/solo-blog"><img src="https://img.shields.io/github/last-commit/nishifenger/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/nishifenger/solo-blog"><img src="https://img.shields.io/github/repo-size/nishifenger/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.5-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/nishifenger/solo-blog.svg"></a></p>
