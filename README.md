@@ -10,6 +10,7 @@ NI SHI FENG ER
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://www.yamsunshine.club/my-github-repos)
 * [HBase Connection使用中需要注意的问题](http://www.yamsunshine.club/articles/2019/10/28/1572231094567.html)
 * [HBase连续分页查询，跳过上一次查询结果最后一行数据的实现方法](http://www.yamsunshine.club/articles/2019/10/28/1572226503511.html)
 * [impala sql中的坑](http://www.yamsunshine.club/articles/2019/10/27/1572149986245.html)
