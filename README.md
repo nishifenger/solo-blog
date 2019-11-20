@@ -10,6 +10,7 @@ NI SHI FENG ER
 
 ### 最新
 
+* [Java多线程学习笔记](http://www.yamsunshine.club/articles/2019/11/20/1574213880466.html)
 * [hadoop archive报java堆内存溢出的解决方案](http://www.yamsunshine.club/articles/2019/11/04/1572860027113.html)
 * [我在 GitHub 上的开源项目](http://www.yamsunshine.club/my-github-repos)
 * [HBase Connection使用中需要注意的问题](http://www.yamsunshine.club/articles/2019/10/28/1572231094567.html)
